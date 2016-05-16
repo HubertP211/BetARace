@@ -1,0 +1,9 @@
+C:\Users\Pysio\Documents\Visual Studio 2015\Projects\RaceDay\RaceDay\bin\Release\RaceDay.exe.config
+C:\Users\Pysio\Documents\Visual Studio 2015\Projects\RaceDay\RaceDay\bin\Release\RaceDay.exe
+C:\Users\Pysio\Documents\Visual Studio 2015\Projects\RaceDay\RaceDay\bin\Release\RaceDay.pdb
+C:\Users\Pysio\Documents\Visual Studio 2015\Projects\RaceDay\RaceDay\obj\Release\RaceDay.csprojResolveAssemblyReference.cache
+C:\Users\Pysio\Documents\Visual Studio 2015\Projects\RaceDay\RaceDay\obj\Release\RaceDay.Form1.resources
+C:\Users\Pysio\Documents\Visual Studio 2015\Projects\RaceDay\RaceDay\obj\Release\RaceDay.Properties.Resources.resources
+C:\Users\Pysio\Documents\Visual Studio 2015\Projects\RaceDay\RaceDay\obj\Release\RaceDay.csproj.GenerateResource.Cache
+C:\Users\Pysio\Documents\Visual Studio 2015\Projects\RaceDay\RaceDay\obj\Release\RaceDay.exe
+C:\Users\Pysio\Documents\Visual Studio 2015\Projects\RaceDay\RaceDay\obj\Release\RaceDay.pdb
